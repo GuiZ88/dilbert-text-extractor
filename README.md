@@ -1,0 +1,1 @@
+# dilbert-text-extractor
