@@ -46,6 +46,12 @@ python3 extract_text_dataset.py
 ```
 
 The next step uses a distance measurement to compare the coordinates of Dilber and the Boss, present in the file 'detect_dilbert_boss.txt' with those of each single image, matching the text to the character. Thus a 'dataset.txt' file is generated with the "questions and answers" i.e. the mini dialogue.
+Also there is a number of functions for cleaning up and self-correcting text.
+
+```sh
+python3 build_text_dataset.py
+```
+
 
 ```txt
 DILBERT: what my budget?
