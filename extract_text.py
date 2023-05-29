@@ -7,16 +7,13 @@ import json
 from text_extractor.VisionOCR import VisionOCR
 
 class OCR:
+    # google cloud credentials
     cloud_credentials = 'dilbert-text-extractor-95594094aff2.json'
 
     def __init__(self):
         self.extractor = VisionOCR(self.cloud_credentials)
 
     def extract_text(self):
-        """
-        Extracts text from images.
-        :param img_paths: A list of paths to images for processing.     
-        :return: A dictionary mapping image paths to the extracted names.        """
         result = {}
         with open('detect_dilbert_boss.txt') as f:
             for line in tqdm(f):
@@ -38,6 +35,7 @@ class OCR:
                         
                         hs.close()
                     else:
+                        print(transcription_filename)
                         print("ALREADY PROCESSED")
 
         return result

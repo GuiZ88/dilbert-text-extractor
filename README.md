@@ -5,8 +5,8 @@
   <h3 align="center">Dilbert - Text Extractor</h3>
 
   <p align="center">
-The main purpose of this repository is through the recognition of the text of the cartoons (identified in the first part of the )
-[dilbert-cascade-classifier by GuiZ88](project https://github.com/GuiZ88/dilbert-cascade-classifier) using the Vision OCR.  
+The main purpose of this repository is through the recognition of the text of the panels (identified in the first part of the 
+[dilbert-boss-cascade-classifier by GuiZ88](project https://github.com/GuiZ88/dilbert-boss-cascade-classifier) ) using the Vision OCR.  
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -58,5 +58,5 @@ DILBERT: you have to admit my system is better than whatever your doing over the
 
 <u><b>In this repositories there are only some sample images for each folder.</b></u>
 
-![Alt text](image_to_parse/2010-01-05_0.png.png?raw=true "Title")
+![Dilbert & Boss](dilbert-text-extractor/image_to_parse/2010-01-05_0.png?raw=true "Dilbert & Boss")
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
