@@ -1,0 +1,16 @@
+[
+    {
+        "text": "WOULD IT HELP IF I ADD A FEW STEPS? ",
+        "centroid": [
+            64.5,
+            69.5
+        ]
+    },
+    {
+        "text": "YES, IF YOU HAVE TO GO BACK TO YOUR OFFICE TO DO IT. ",
+        "centroid": [
+            196.0,
+            77.0
+        ]
+    }
+]

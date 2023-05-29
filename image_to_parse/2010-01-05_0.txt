@@ -1,0 +1,9 @@
+[
+    {
+        "text": "MAYBE SOMEONE CAN HELP YOU QUANTIFY THE VALUE OF YOUR RESEARCH AND DEVEL OPMENT WORK. ",
+        "centroid": [
+            146.0,
+            71.5
+        ]
+    }
+]

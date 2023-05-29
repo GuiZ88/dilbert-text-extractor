@@ -1,0 +1,16 @@
+[
+    {
+        "text": "CAN I HAVE A 25% RAISE TO GET MY COMPENSATION UP TO MARKET LEVELS? ",
+        "centroid": [
+            140.0,
+            65.5
+        ]
+    },
+    {
+        "text": "NO. ",
+        "centroid": [
+            106.5,
+            142.0
+        ]
+    }
+]
